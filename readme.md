@@ -1,6 +1,6 @@
-#README - VERSÃO 2
+# README - VERSÃO 3
 
-##Olá ...
+## Olá ...
 
-###Projeto de uso do git
+### Projeto de uso do git
 
