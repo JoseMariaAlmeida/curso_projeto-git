@@ -1,3 +1,6 @@
-Olá ...
+#README - VERSÃO 2
 
-Projeto de uso do git
+##Olá ...
+
+###Projeto de uso do git
+
